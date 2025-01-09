@@ -2110,6 +2110,7 @@ https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpspo
 https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/wfd0yt1642607115.png",sky select
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2117,6 +2118,7 @@ https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpspo
 https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png",sky 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2124,6 +2126,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
 https://linear-s.media.skyone.co.nz/sky-sport-1.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png",sky 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2131,6 +2134,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-1.mpd
 https://linear-s.media.skyone.co.nz/sky-sport-2.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/e1htne1642606972.png",sky 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2145,6 +2149,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-3.mpd
 https://linear-s.media.skyone.co.nz/sky-sport-4.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",sky 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2152,6 +2157,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-4.mpd
 https://linear-s.media.skyone.co.nz/sky-sport-5.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ngykyk1642607005.png",sky 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2159,6 +2165,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-5.mpd
 https://linear-s.media.skyone.co.nz/sky-sport-6.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/3ps7hu1642607021.png",sky 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2166,6 +2173,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-6.mpd
 https://linear-s.media.skyone.co.nz/sky-sport-7.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports3" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png",sky premier league 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2187,51 +2195,61 @@ https://linear-s.media.skyone.co.nz/sky-sport-9.mpd
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
  
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Premium 1.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGODB3OQ8isI3p5Q6GqDAZnPmvVHa4SzjbQ&usqp=CAU" , ARENA SPORT PREMIUM 1 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
  
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Premium 2.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSROMFYpBJG4yaPrkITr6FrNpss56KzRWCuSQ&usqp=CAU" , ARENA SPORT PREMIUM 2 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
  
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Premium 3.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Arena_Sport_3_Premium_%282021%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214149" , ARENA SPORT PREMIUM 3 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Arena_Sport_1_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" , ARENA SPORT 1 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Sport 2 HD.ba" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png" , ARENA SPORT 2 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Sport 3 HD.ba" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/yjqg7l1643205550.png" , ARENA SPORT 3 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Sport 4 HD.ba" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/cvlppn1643205563.png" , ARENA SPORT 4 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Sport 5 HD.ba" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/zu2qkb1643205581.png" , ARENA SPORT 5 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Sport 6 HD.ba" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/gcy7ct1643205612.png" , ARENA SPORT 6 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 #EXTINF:-1 group-title="Sports3" tvg-id="Arena Sport 7 HD.ba" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/1kc26o1643205642.png" , ARENA SPORT 7 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena7.mpd

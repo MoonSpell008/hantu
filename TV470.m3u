@@ -1447,7 +1447,7 @@ EXTINF:-1 group-title="Sports1" tvg-logo="https://divign0fdw3sv.cloudfront.net/I
 http://d37lxn4ksn51zz.cloudfront.net/premier2.mpd
 
 
-#EXTINF:-1 group-title="Sports1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" , astro Sports UHD
+#EXTINF:-1 group-title="Sports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" , astro Sports UHD
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9

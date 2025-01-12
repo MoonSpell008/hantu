@@ -1,9 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz" refresh="1440"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
 
 

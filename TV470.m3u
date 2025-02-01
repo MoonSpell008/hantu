@@ -903,7 +903,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 
 
@@ -925,9 +925,6 @@ EXTINF:-1 group-title="Entertainment More"  tvg-logo="https://static.wikia.nocoo
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 
-#EXTINF:-1 group-title="Entertainment More" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/250px-KBS_World_%282009%29.svg.png", KBS World HD
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment More" tvg-logo="https://w7.pngwing.com/pngs/399/929/png-transparent-sbs-broadcasting-hd-logo-thumbnail.png",SBSTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -941,7 +938,7 @@ EXTINF:-1 group-title="Entertainment" tvg-logo="https://telegra.ph/file/bccc6463
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-#EXTINF:-1 group-title="Entertainment More" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" , GEM
+EXTINF:-1 group-title="Entertainment More" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" , GEM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
@@ -957,7 +954,7 @@ EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="" tvg-logo="https://www.thesports
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png" group-title="Entertainment More", USA (WEST) 🇺🇸
+EXTINF:-1 tvg-id="USANetworkWest.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/yswxwr1433432126.png" group-title="Entertainment More", USA (WEST) 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
@@ -1203,47 +1200,6 @@ EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://i.img
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
-
-#EXTINF:-1 group-title="Knowledge More" tvg-logo="https://i.imgur.com/fwnLPBf.png" ,Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#https://mangga-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-
-#EXTINF:-1 group-title="Knowledge More" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/DSCHD/large_white.png" ,Discovery Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#https://mangga-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#EXTINF:-1 group-title="Knowledge More" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
-
-#EXTINF:-1 group-title="Knowledge More" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",Crime Investigation
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#https://mangga-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#EXTINF:-1 group-title="Knowledge More" tvg-logo="https://i.ibb.co.com/FY4pj9S/curiosity.png" ,Curiosity 
-https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
-https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-
-#EXTINF:-1 group-title="Knowledge More" tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png" ,Techstorm
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 
 
 

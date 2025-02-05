@@ -9,7 +9,6 @@ EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
 #EXTINF:-1 group-title="Sports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-logo="https://www.lowyat.net/wp-content/uploads/2022/03/astro-sports-pack-2022-campaign-01.jpg" , ASTRO ARENA BOLA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVTRZamhpWVdRdE0yTmlNUzAwTkdJNUxXSXlZemN0WXpJMFl6UmhZamM0TlRVeCIsIndtb3BpZCI6MzIsImV4cCI6MTczODgzOTQ2NCwiaWF0IjoxNzM4MjM1NDY0fQ.Owvlee6Kn2Nmt7I5ZYAMLnnDYhhwuMY0NsF_xfu7PIk
 
 

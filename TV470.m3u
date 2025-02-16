@@ -100,7 +100,7 @@ EXTINF:-1 group-title="MyTV" tvg-logo="https://www.tvmalaysia.org/wp-content/upl
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
+EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
 #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
@@ -117,7 +117,7 @@ https://centerrrs.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinf
 #https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png
 
 
-EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
@@ -187,11 +187,11 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png",TV9
+EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
 #EXTINF:-1 group-title="MyTV" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV
 https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
@@ -800,7 +800,7 @@ EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfil
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.logolynx.com/images/logolynx/s_83/830a24e3e253625edff8233b668520ae.jpeg",KBS World 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",KBS World 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -820,7 +820,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mp
 https://web.hypp.tv:443/PLTV/88888888/224/3221227869/3221227869.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tAj9noBYJ2skybq0Yc3wzUPfVVgVyDuUJP2cH3Vl1NgUtbNv16v%2BzieVWwImkNgeg1kTVq%2B8T3u5TGgBhmCcgUAyF9cjp90m2RAyA0sYZtgzq5XlKJ7JMabmxeM83fZv%3A20230921113509%3AUTC%2C1005926113%2C203.106.139.128%2C20230921113509%2Curn:Huawei:liveTV:XTV51882374%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1615850%2C0%2C521145%2C3533104136%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoYft4oVWKYVAcAtxuy0j6Voxka1UcgL9-8aNs52ZM5wlw9H-1QhtAaek87apYHWrqEJTC6usGkRTs0I_XTKKOcQ4zqFLfsW-jrtvKbjgSkmuNOvXu7eIsC2762QpG_nEjpRvoyPjy8BvKBwhZApYxjTzj4jfzxy3CaN-U5NNW2tR6falEoIta9qjnO8NO6Hs0nRBJn9I4R8wA2IhdoE7I1CHicx8jfHBvWd_t_kD2trVRPQAAAA&tenantId=6001
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="AXN" tvg-logo="https://r-scale-b2.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266415.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200",AXN 
+#EXTINF:-1 group-title="Entertainment" tvg-id="AXN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/AXN_osb_new.svg/revision/latest/scale-to-width-down/250?cb=20230119194116",AXN 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -933,7 +933,7 @@ EXTINF:-1 group-title="Entertainment" tvg-logo="https://seeklogo.com/images/H/hg
 #KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://seeklogo.com/images/H/hgtv-logo-4346B7511B-seeklogo.com.png",HGTV 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -943,7 +943,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 
 

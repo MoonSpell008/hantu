@@ -2320,7 +2320,7 @@ https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
-#EXTINF:-1 group-title="Sports3" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg",Champions TV3
+EXTINF:-1 group-title="Sports3" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg",Champions TV3
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
 
@@ -2480,7 +2480,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Sports3" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
+EXTINF:-1 group-title="Sports3" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
 https://mangga-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
@@ -2716,7 +2716,7 @@ EXTINF:-1 group-title="Sports3" tvg-logo="https://i.imgur.com/WEM9B83.png" , Ten
 #https://webudit.vipboxtv.stream/lb/premium40/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
-#EXTINF:-1 group-title="Sports3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjNoZDEWtelqyxwt2aRnCFObsE4ugeL4gfQ&usqp=CAU", SUPER TENNIS 
+EXTINF:-1 group-title="Sports3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjNoZDEWtelqyxwt2aRnCFObsE4ugeL4gfQ&usqp=CAU", SUPER TENNIS 
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
  
 EXTINF:-1  tvg-id="ext" group-title="Sports3" tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png",Red Bull TV

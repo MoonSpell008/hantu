@@ -43,17 +43,13 @@ https://josh9456-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premi
 
 
 #EXTINF:-1 group-title="MyTV" group-logo="https://soyacincau.com/wp-content/uploads/2021/08/210817-astro25-channel-hero.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",astro RIA 
-http://extraott.com:900/live/3162523972/3791698850/191867.m3u8
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDfl6RaBAMYIT71afyQ0GRHc=KbUg/dash-wv/jitp-linearwm/1004/default_primary.mpd
-
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+
 
 #EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",astro PRIMA 
 http://iptv12k.com:35461/654321/123456/734

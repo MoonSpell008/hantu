@@ -173,6 +173,35 @@ https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 
+#EXTINF:1 group-title="Movies More" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" , MNX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+
+#EXTINF:-1 group-title="Movies More" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+
+#EXTINF:1 group-title="Movies More" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Romedy_Now_HD.jpg/revision/latest/smart/width/386/height/259?cb=20180531113548", Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF: -1 tvg-id="ts174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="Movies", Romedy Now
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+
+#EXTINF:1 group-title="Movies More" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqMSCH0FK4mJ1c9gMaHUKq2kg465b6YD73A&usqp=CAU" ,MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTprVVTK/starzcom.png" group-title="Movies More", Starz Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:3905edab045510aa8e16a036dfdcbad4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
